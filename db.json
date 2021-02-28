@@ -1,0 +1,34 @@
+{
+  "posts": [
+    {
+      "id": "1",
+      "title": "Post one",
+      "body": "This is post body",
+      "publishedAt": "27/02/2021"
+    },
+    {
+      "id": "2",
+      "title": "Post two",
+      "body": "This is post body",
+      "publishedAt": "27/02/2021"
+    },
+    {
+      "id": "3",
+      "title": "Post three",
+      "body": "This is post body",
+      "publishedAt": "27/02/2021"
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "name": "Sanskriti",
+      "email": "sanskriti@gmail.com"
+    },
+    {
+      "name": "sweta",
+      "email": "sweta@gmail.com",
+      "id": "eqhvH0I"
+    }
+  ]
+}
